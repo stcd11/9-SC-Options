@@ -1,0 +1,170 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+
+#+TITLE: Year 9 Options
+#+AUTHOR: Paul Dougall
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/stcd11/9-SC-Options">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+ 
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* GCSE Design Engineering
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- To offer a uniquely challenging and enjoyable programme of study, which develops creativity, a logical mind, resilience and problem-solving abilities through the creation of new and original products in our high-spec Design Engineering labs. 
+-  As far as we know, no other school in the area offers such an advanced and forward-looking Technology curriculum. 
+
+** Try It - A new challenge
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- Students will be taught to bring together a number of core skills - the creativity to devise an original product, design skills to create mechanisms and housings, electronic design to control a wide variety of components, programming skills to make everything work and problem solving.  It’s hard work, but as our students consistently report, the sense of satisfaction and pride when they see everything come together and work for the first time is unlike any other, and they will improve their physics and mathematical skills as they develop their skill-set.  We have a VEX robotics team (sponsored by Northrop Grumman), and have established links with local employers such as Warners Midland plc, Park Air Systems and Landis+Gyr, with whom visits are organised to provide first-hand experience of world-class engineering. 
+** Try It - The best results
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- Design Engineering students have access to all the theory notes they need online from day one, as well as model solutions to past papers.  In addition to this, students enjoy extensive, teacher-supervised access to the Design Engineering labs outside lesson-time, both at breaks and lunchtimes and after School, nearly every day of the week.  Our students are enthusiastic about their work - Sixth Form students are often seen supporting GCSE students in lunchtime sessions, and GCSE students themselves often help those in the Lower School.  
+76% of our most recent cohort of students achieved A*-C, 58% of which were A*-B grades, compared to 66% A*-C and 57% A*-B in other schools offering established S&C curriculums (source: AQA results analysis service).
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Try It - The best support
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- Students will be taught in the well-equipped Design Engineering labs, and have access to all the machines and components that the department has to offer.  Whether tuning a circuit on the oscilloscope, etching PCBs, designing and 3D printing parts or precisely laser-cutting their designs, we have the facilities to realise students’ ideas, and an experienced staff to support them.  
+Student projects this year incorporate stepper motor control technology, Servo motor, PIC, Raspberry Pi and Arduino powered control systems. 
+ 
+** Want It - A stellar career path
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Today’s engineers work in the most exciting and dynamic fields – with career prospects to match.  Perhaps some of our students will study electronics engineering, and play a role in developing the micro-technologies of the future.  
+- Our students could find themselves working in fields as diverse as automotive, aerospace automation, medical instrumentation, domestic and leisure products. 
+- There’s never been a better time to get into Technology: 2018 was the UK government’s Year of Engineering and the profession would like 186,000 skilled recruits each year to 2024. EngineeringUK.(Source:https://www.theengineer.co.uk/uk-government-year-of-engineering/) 
+
+** Learn It - Taking it further
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- In Year 11, students have the opportunity to apply for prestigious Arkwright Engineering Scholarships, which provide students with bursaries of several hundred pounds of funding to support them through the Sixth Form.  We currently have 3 scholars who passed the entrance exam and interview process at universities.  Through his scholarship, one of our current scholars spent time working with GCHQ, he has been enrolled in the CyberFirst GCHQ program and will be attending days out at GCHQ and Bletchley Park Centre. 
+- Systems is, as we like to say, ‘Intelligence made visible’.
+** Badge It - Outline/Structure of Course:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- In Year 10, students’ electronic design, programming and making and design skills will be bolstered, as they make their first complete projects from idea to finished product.  They will develop skills in 2D and 3D modelling, as well as PCB design and construction as they learn to use all the machinery in the Design Engineering labs to produce high-precision products. 
+- In Year 11, students will work to complete their own original project from concept sketches to a working prototype as part of a controlled assessment, and hone their theory knowledge to help them succeed in the Summer exam. 
+
+* Assessment
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+
+
+** Score It - Examination
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Unit 1: Exam – taken at the end of Year 11, this 1-hour and 45-minute paper will encapsulate all the theory and problem-solving skills they will develop throughout the course, and contributes 50% of the total GCSE marks.
+The exam explores students’ understanding of electronics, materials, modelling/prototyping, control systems (input, process and output) and mechanisms.
+
+** Score It - Coursework
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Unit 2: Design and Making Practice. This controlled assessment lasts approximately 45 hours, and is worth 50% of the total GCSE marks.  
+- Students will investigate, design, make and evaluate a specific project, based on the theory and practical skills they will learn throughout the course.  
+- This will be completed in the classroom during Year 11 and under controlled conditions.  
+- This task will be marked by their teacher and the marks verified by the exam board.
+
+** Say
+ It - 
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+
+“By the end of Year 10, I knew I wanted to be a professional engineer” – Year 11 student
+
+“I really enjoy having the freedom to design and create my own ideas” – Year 10 student
+
+“I love the pace; I’ve learnt a huge amount in a short time” – Year 11 student
