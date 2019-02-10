@@ -88,6 +88,13 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Click on the link below to go to the Edexcel website and download the specification.
+- Design Engineering will be following the 1DT0/1D (systems) part of the specification.
+- [[https://qualifications.pearson.com/en/qualifications/edexcel-gcses/design-and-technology-2017.coursematerials.html#filterQuery%3Dcategory:Pearson-UK:Category%252FSpecification-and-sample-assessments][Click on this link to go to the Edexcel website]]
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
